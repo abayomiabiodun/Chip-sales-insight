@@ -7,3 +7,8 @@
 4. Dorito corn chp supreme 300g has the highest sales out of all the product, the product manager should increase the production of Dorito corn chp supreme 300g
 5. Woolworths mediums salsa 300g has the least sales out of all the products sold, the product manger should reduce the production of Wooworths medium salsa 300g, customers has low interest in buying the product
 6. There is a close relationship between the product often sold together, the product manager should not consider product often sold together as a factor to determine sales of the product
+
+## Some of the dependency used in this project are listed below
+### pandas for data cleaning and manipulation
+### numpy for statistics
+### matplotlip for chart
