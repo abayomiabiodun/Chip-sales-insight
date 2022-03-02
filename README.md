@@ -8,7 +8,7 @@
 5. Woolworths mediums salsa 300g has the least sales out of all the products sold, the product manger should reduce the production of Wooworths medium salsa 300g, customers has low interest in buying the product
 6. There is a close relationship between the product often sold together, the product manager should not consider product often sold together as a factor to determine sales of the product
 
-##  Some of the dependency used in this project are listed below
+  Some of the dependency used in this project are listed below
 1. pandas for data cleaning and manipulation
 2. numpy for statistics
 3. matplotlip for chart
